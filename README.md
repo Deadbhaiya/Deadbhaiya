@@ -16,6 +16,8 @@
 - 🎙 *Tech Influencer:* Sharing insights on **Instagram & YouTube**  
 - 🏆 *Startup Founder:* Building **Afterhours** for Gen Z communities  
 - 💡 *Passion:* Exploring & pushing the boundaries of **tech & innovation**  
+- 📚 *Always Learning:* Expanding my expertise in **AI, Blockchain & Web3**  
+- 💻 *Hackathon Enthusiast:* Love solving real-world problems with code  
 
 ---
 
@@ -29,12 +31,16 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ### *🛠 Tools & Platforms*
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
 ---
 
@@ -42,6 +48,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-thakur308)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deadbhaiya)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your_handle)  
 
 ---
 
@@ -60,6 +67,11 @@
 ### 📊 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadbhaiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+### 🚀 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Deadbhaiya&theme=dracula&hide_border=true&area=true" />
 </p>
 
 ---
