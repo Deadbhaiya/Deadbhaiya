@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EFDED&center=true&vCenter=true&width=500&lines=Web+Dev+%7C+UI%2FUX+%7C+JavaScript+%7C+AI%2FML;Software+Developer+%7C+Tech+Influencer;Always+building+something+new!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EFDED&center=true&vCenter=true&width=500&lines=Web+Dev+%7C+UI%2FUX+%7C+JavaScript+%7C+AI%2FML;Software+Developer+%7C+Tech+Influencer;Always+building+something+new!+🚀" />
 </p>
 
 ---
@@ -12,9 +12,9 @@
 ## 🚀 About Me  
 
 - 🌍 *Based in:* India  
-- 🎯 *Current Focus:* AI & Web Development  
-- 🎙 *Tech Influencer:* Sharing insights on **Instagram & YouTube**  
+- 🎧 *Tech Influencer:* Sharing insights on **Instagram & YouTube**  
 - 🏆 *Startup Founder:* Building **Afterhours** for Gen Z communities  
+- 🌿 *Co-Founder:* **Lucora** - Revolutionizing mental health solutions  
 - 💡 *Passion:* Exploring & pushing the boundaries of **tech & innovation**  
 - 📚 *Always Learning:* Expanding my expertise in **AI, Blockchain & Web3**  
 - 💻 *Hackathon Enthusiast:* Love solving real-world problems with code  
@@ -48,11 +48,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-thakur308)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deadbhaiya)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your_handle)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jay_.stfu)  
 
 ---
 
-## 📊 GitHub Stats  
+## 🌊 GitHub Stats  
 
 ### 🔥 Streak Stats  
 <p align="center">
