@@ -1,10 +1,10 @@
 <div align="center">
   <h1>🚀 Hi, I'm Jay Thakur 👋</h1>
-  <h2>Web Developer | Tech Enthusiast | Innovator</h2>
+  <h2>Software Developer | AI Systems Builder | Startup Founder</h2>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EFDED&center=true&vCenter=true&width=500&lines=Web+Dev+%7C+UI%2FUX+%7C+JavaScript+%7C+AI%2FML;Software+Developer+%7C+Tech+Influencer;Always+building+something+new!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=4EFDED&center=true&vCenter=true&width=540&lines=Web+%26+App+Developer;AI+Agents+%7C+RAG+%7C+Local+LLMs;Building+Scalable+AI+Systems;Founder+Mindset+%7C+Builder+Mentality" />
 </p>
 
 ---
@@ -12,35 +12,46 @@
 ## 🚀 About Me  
 
 - 🌍 *Based in:* India  
-- 🎧 *Tech Influencer:* Sharing insights on **Instagram & YouTube**  
-- 🏆 *Startup Founder:* Building **Afterhours** for Gen Z communities  
-- 🌿 *Co-Founder:* **Lucora** - Revolutionizing mental health solutions  
-- 💡 *Passion:* Exploring & pushing the boundaries of **tech & innovation**  
-- 📚 *Always Learning:* Expanding my expertise in **AI, Blockchain & Web3**  
-- 💻 *Hackathon Enthusiast:* Love solving real-world problems with code  
+- 🎓 *Computer Science Engineering Student*  
+- 🧠 *Core Focus:* Software Development & GenAI Systems  
+- 🏗️ *Founder @ GNX:* Building practical, AI-driven products  
+- 🌿 *Co-Founder @ Lucora:* Mental health solutions powered by technology  
+- 🧩 *Startup Builder:* Working on **Afterhours** for Gen Z communities  
+- 🤖 *What I Build:* AI agents, RAG pipelines, local LLM systems & real apps  
+- 🎥 *Tech Influencer:* Sharing AI & dev insights on Instagram and YouTube  
+- 📚 *Learning Style:* Deep, hands-on, system-level understanding  
 
 ---
 
 ## 🛠 Tech Stack  
 
-### *💻 Languages & Frameworks*
+### 💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 🌐 Web & App Development  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### *🛠 Tools & Platforms*
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🤖 AI / GenAI  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=flat-square)
+
+### 🛠 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat-square)
 
 ---
 
@@ -66,19 +77,12 @@
 
 ### 📊 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadbhaiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-### 🚀 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Deadbhaiya&theme=dracula&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadbhaiya&theme=dark&hide_border=false&layout=compact" />
 </p>
 
 ---
 
 ## 💡 Fun Fact  
-🔹 I believe **creativity & technology** together can change the world! 🌎✨  
+🔹 I don’t chase trends — I build systems that survive them.
 
----
-
-<!-- Proudly created by Jay Thakur ❤ -->
+<!-- README built with intent by Jay Thakur ❤ -->
