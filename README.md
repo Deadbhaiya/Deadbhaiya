@@ -85,4 +85,4 @@
 ## 💡 Fun Fact  
 🔹 I don’t chase trends — I build systems that survive them.
 
-<!-- README built with intent by Jay Thakur ❤ -->
+<!-- README built by Jay Thakur ❤ -->
