@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Hi, I'm Jay Thakur 👋</h1>
+  <h1>🚀 Hi, I'm Jay👋</h1>
   <h2>Software Developer | AI Systems Builder | Startup Founder</h2>
 </div>
 
