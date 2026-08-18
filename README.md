@@ -1,217 +1,198 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=JAY%20THAKUR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20AI%20%26%20GenAI%20Builder&descAlignY=55&descAlign=50" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+sudo+build+--mode%3Dchaotic;%3E+deploying+AI+agents+at+3AM...;%3E+shipping+RAG+pipelines+%F0%9F%94%A5;%3E+turning+coffee+into+code+%E2%98%95" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Deadbhaiya&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Deadbhaiya?style=for-the-badge&color=FF00FF&logo=github)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaythakur308/)
-[![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jay_.stfu/)
-
+  <h1>🚀 Hi, I'm Jay 👋</h1>
+  <h2>Software Engineer | AI/GenAI Developer | Startup Builder</h2>
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket_1.gif" width="100%" height="5px"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=4EFDED&center=true&vCenter=true&width=540&lines=Software+%26+AI+Developer;AI+Agents+%7C+RAG+%7C+Local+LLMs;Full-Stack+%7C+Flutter+%7C+Next.js;Building+Real-World+AI+Systems;Learning+%7C+Building+%7C+Shipping" />
+</p>
 
-## 👨‍💻 WHOAMI
+---
 
-```yaml
-> whoami --verbose
+## 🚀 About Me  
 
-name:          Jay Thakur
-location:      India 🇮🇳
-role:          Founder & Tech Lead @ GNX | Co-Founder @ Lucora
-education:     CSE @ Chandigarh University (Grad: 2027)
-focus:         Software Engineering & Generative AI
-obsessions:    [LLMs, RAG, Agentic AI, LangChain, Local LLMs]
-status:        🟢 online — building something at this exact moment
-philosophy:    "I don't just learn technology — I build with it."
-```
+- 🌍 *Based in:* India
+- 🎓 *Computer Science Engineering Student* at Chandigarh University
+- 📅 *Expected Graduation:* 2027
+- 🧠 *Core Focus:* Software Engineering & Generative AI
+- 🤖 *AI Focus:* LLMs, RAG, Agentic AI, LangChain & Local LLMs
+- 🏗️ *Founder & Tech Lead @ GNX:* Building practical, AI-driven products
+- 🌿 *Co-Founder @ Lucora:* Building technology for AI-powered mental wellness
+- 🧩 *Startup Builder:* Working on **Afterhours** for Gen Z communities
+- 📱 *App Development:* Building cross-platform applications with Flutter & Dart
+- 🌐 *Web Development:* React, Next.js, Node.js & REST APIs
+- 🗄️ *Backend & Databases:* PostgreSQL, Supabase, Prisma & Firebase
+- 🤖 *What I Build:* AI agents, RAG pipelines, LLM applications & real-world software
+- 📚 *Learning Style:* Hands-on, practical and system-level understanding
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket_1.gif" width="100%" height="5px"/>
+---
 
-## ⚡ TECH ARSENAL
+## 🛠 Tech Stack  
 
-<div align="center">
+### 💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Web & App Development  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 🌐 Web & App
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 🤖 AI / GenAI  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A5ACD?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square)
 
-### 🤖 AI / GenAI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-blue?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge)
+### 🗄️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
-### 🗄️ Backend & DB
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=flat-square)
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+---
 
-</div>
+## 🚀 Projects  
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket_1.gif" width="100%" height="5px"/>
+### 🤖 AI Therapy Assistant — LUCORA
+- AI-powered conversational system
+- LLM-based conversational workflows
+- AI-assisted mental wellness experience
+- Built as part of **LUCORA**
 
-## 🚀 THINGS I'VE BUILT
+### 🧠 Agentic AI Banking System
+- Multi-agent AI architecture
+- Multiple specialized AI agents working together
+- Tool-based workflows and decision making
+- Built to explore real-world Agentic AI systems
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Lucora — AI Therapy Assistant
-LLM-powered conversational system for AI-assisted mental wellness. Built as core tech at Lucora.
-
-</td>
-<td width="50%">
-
-### 🏦 Agentic Banking System
-Multi-agent architecture — specialized AI agents collaborating on tool-based decision workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗣️ Allen — AI Chat App
-Cross-platform Flutter app running local LLMs via Ollama, with AI image generation baked in.
-
-</td>
-<td width="50%">
+### 🗣️ AI Chat Application — Allen
+- Cross-platform application built with **Flutter**
+- AI conversational interface
+- **Ollama** for local LLM interaction
+- AI-powered image generation
+- API integration for intelligent responses
 
 ### 📚 RAG Applications
-Document Q&A over PDFs & websites — embeddings, semantic retrieval, context-aware responses.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+- Document-based question answering
+- Embeddings and semantic retrieval
+- Knowledge-base processing
+- PDF and website data processing
+- Context-aware LLM responses
 
 ### 🎨 Air Canvas
-Draw in thin air. Real-time hand tracking + computer vision turns gestures into strokes.
-
-</td>
-<td width="50%">
+- Gesture-based drawing application
+- Computer vision based interaction
+- Real-time hand tracking
+- Drawing through hand movements
 
 ### 🎵 iPod Classic React
-A pixel-perfect, fully interactive React recreation of the OG iPod Classic UI.
+- Interactive iPod Classic inspired interface
+- Built using **React**
+- Component-based architecture
+- Interactive and responsive UI
 
-</td>
-</tr>
-</table>
+---
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket_1.gif" width="100%" height="5px"/>
+## 🏗️ Experience & Building  
 
-## 🏗️ WHERE I BUILD
+### 🚀 GNX — Founder & Tech Lead
+- Leading technical execution of software and AI-driven products
+- Building full-stack applications
+- Integrating AI and LLM-based features
+- Working on product architecture and development
 
-```mermaid
-graph LR
-    A[Jay Thakur] --> B[🚀 GNX]
-    A --> C[🌿 Lucora]
-    A --> D[🌙 Afterhours]
-    B --> B1[Founder & Tech Lead]
-    C --> C1[Co-Founder & Tech]
-    D --> D1[Startup Builder]
-    B1 --> E[AI-driven full-stack products]
-    C1 --> F[AI mental wellness tech]
-    D1 --> G[Gen Z community platform]
+### 🌿 LUCORA — Co-Founder & Tech
+- Worked on technology and product development
+- Built AI-powered conversational experiences
+- Focused on practical applications of AI in mental wellness
 
-    style A fill:#39FF14,stroke:#000,color:#000
-    style B fill:#FF00FF,stroke:#000,color:#fff
-    style C fill:#00E5FF,stroke:#000,color:#000
-    style D fill:#FFD700,stroke:#000,color:#000
-```
+### 🌙 Afterhours — Startup Builder
+- Gen Z community-focused product
+- Community discovery and interaction
+- Events and social experiences
+- Product-focused user experience
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket_1.gif" width="100%" height="5px"/>
+---
 
-## 🌊 GITHUB STATS
+## 📚 Currently Learning  
 
-<div align="center">
+- 🔹 Data Structures & Algorithms
+- 🔹 Java & Object-Oriented Programming
+- 🔹 Advanced Python
+- 🔹 System Design
+- 🔹 Generative AI
+- 🔹 Agentic AI Architectures
+- 🔹 RAG Pipelines
+- 🔹 LLM Application Development
+- 🔹 Backend & API Development
+- 🔹 Cloud Deployment & Production Systems
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deadbhaiya&theme=nightowl&hide_border=true&background=0D1117&stroke=39FF14&ring=FF00FF&fire=FF00FF&currStreakLabel=39FF14" />
+---
 
-<br/>
+## 🌐 Connect With Me  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deadbhaiya&show_icons=true&theme=nightowl&hide_border=true&background=0D1117&title_color=39FF14&icon_color=FF00FF&text_color=ffffff&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadbhaiya&layout=compact&theme=nightowl&hide_border=true&background=0D1117&title_color=39FF14&text_color=ffffff" width="42%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaythakur308/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Deadbhaiya)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jay_.stfu/)  
 
-<br/>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deadbhaiya&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=FF00FF&point=ffffff" width="95%"/>
+## 🌊 GitHub Stats  
 
-<br/>
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deadbhaiya&theme=dark&hide_border=false" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deadbhaiya&theme=nightowl&hide_border=true&background=0D1117&title_color=39FF14&text_color=ffffff&layout=compact" width="60%"/>
+### 📈 GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deadbhaiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-</div>
+### 📊 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadbhaiya&theme=dark&hide_border=false&layout=compact" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket_1.gif" width="100%" height="5px"/>
+---
 
-## 📚 CURRENTLY GRINDING
+## 💡 Fun Fact  
 
-<div align="center">
+🔹 I don't just learn technology — **I build with it.**
 
-![](https://progress-bar.dev/70/?title=Data+Structures+%26+Algorithms&width=400&color=39FF14)
-![](https://progress-bar.dev/60/?title=System+Design&width=400&color=FF00FF)
-![](https://progress-bar.dev/80/?title=Agentic+AI+Architectures&width=400&color=00E5FF)
-![](https://progress-bar.dev/75/?title=RAG+Pipelines&width=400&color=FFD700)
-![](https://progress-bar.dev/65/?title=Cloud+%26+Production+Systems&width=400&color=FF6347)
+🔹 From **software development to GenAI**, I'm focused on turning ideas into working systems.
 
-</div>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket_1.gif" width="100%" height="5px"/>
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Deadbhaiya/Deadbhaiya/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>⚠️ Snake generates automatically once the <code>generate-snake.yml</code> Action is added to your repo — see setup note below.</sub>
-</div>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rocket_1.gif" width="100%" height="5px"/>
-
-## 💡 FUN FACTS
-
-```javascript
-const jay = {
-  learns: "hands-on, system-level, no fluff",
-  builds: ["AI agents", "RAG pipelines", "LLM apps", "real-world software"],
-  currentObsession: "Agentic AI",
-  favoriteBug: "the one that fixed itself",
-  motto: () => "I don't just learn technology — I build with it."
-};
-
-console.log(jay.motto());
-// > "I don't just learn technology — I build with it."
-```
+---
 
 <div align="center">
 
-### ⚡ ALWAYS LEARNING. ALWAYS BUILDING. ALWAYS SHIPPING. ⚡
+### ⚡ Always Learning. Always Building. Always Shipping.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-**Made with 🔥 (and way too much caffeine) by Jay Thakur**
+**Made with ❤️ by Jay Thakur**
 
 </div>
+
+<!-- README built by Jay Thakur ❤ -->
